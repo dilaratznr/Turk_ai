@@ -1,0 +1,47 @@
+/* Sayfa stillemesi */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Başlık stillemesi */
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+/* Paragraf stillemesi */
+p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Resim stillemesi */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* Liste stillemesi */
+ul {
+    list-style: none;
+}
+
+/* Bağlantı stillemesi */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
